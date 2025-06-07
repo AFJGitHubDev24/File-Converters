@@ -57,4 +57,4 @@ Each CSV will contain:
 | ...      |
 
 ### 🪪 LICENSE
-This project or product is under the [Creative Commons Zero v1.0 Universal](LICENSE).
+This project is under the [Creative Commons Zero v1.0 Universal](LICENSE) license.
