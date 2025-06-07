@@ -55,3 +55,6 @@ Each CSV will contain:
 | 0.123456 |
 | 0.654321 |
 | ...      |
+
+### 🪪 LICENSE
+This project or product is under the
